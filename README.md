@@ -16,7 +16,7 @@ I'm a passionate Java developer with a knack for building scalable, reliable app
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/pravinkumarosingh/
 - Email: pravinkumarosingh@gmail.com
-- Portfolio: pravinkumarosingh.github.io
+- Portfolio: https://pravinkumarosingh.github.io
 
 
 
