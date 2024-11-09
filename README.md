@@ -13,6 +13,12 @@ I'm a passionate Java developer with a knack for building scalable, reliable app
 - Microservices architecture
 - System design and high-scale architecture principles
 
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/pravinkumarosingh/
+- Email: pravinkumarosingh@gmail.com
+- Portfolio: pravinkumarosingh.github.io
+
+
 
 <!--
 **pravinkumarosingh/pravinkumarosingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
