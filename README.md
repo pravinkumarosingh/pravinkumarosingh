@@ -1,6 +1,14 @@
-### Hi there 👋
+### 👋 Hi there 
 
 I'm a passionate Java developer with a knack for building scalable, reliable applications. With experience across various Java frameworks and tools, I enjoy solving complex problems, optimizing backend systems, and diving into the world of microservices and API development.
+
+### 🛠️ Skills & Technologies
+- Languages: Java, SQL
+- Frameworks & Libraries: Spring Boot, Hibernate, JUnit, Mockito
+- Database Systems: MySQL, PostgreSQL, MongoDB
+- Tools & Platforms: Git, Docker
+
+
 
 <!--
 **pravinkumarosingh/pravinkumarosingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
