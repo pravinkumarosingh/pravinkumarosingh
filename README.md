@@ -8,6 +8,10 @@ I'm a passionate Java developer with a knack for building scalable, reliable app
 - Database Systems: MySQL, PostgreSQL, MongoDB
 - Tools & Platforms: Git, Docker
 
+### 🌱 Currently Learning
+- Advanced Spring Boot features
+- Microservices architecture
+- System design and high-scale architecture principles
 
 
 <!--
