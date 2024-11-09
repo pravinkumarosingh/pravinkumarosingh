@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github metrics](https://metrics.lecoq.io/pravinkumarosingh)
+<!-- ![github metrics](https://metrics.lecoq.io/pravinkumarosingh) -->
